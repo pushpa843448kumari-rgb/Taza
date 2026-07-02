@@ -1,0 +1,6 @@
+{
+  "name": "Quick Kart PHP",
+  "description": "Full-stack E-commerce PHP application. Must be run on a local PHP/MySQL server (export code to use).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
